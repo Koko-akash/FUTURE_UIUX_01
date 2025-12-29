@@ -1,85 +1,34 @@
-# FUTURE_UIUX_01
-Restaurant Menu &amp; Ordering Interface – UI/UX Internship Task 1
+# Restaurant Menu & Ordering Interface (Task 1)
 
+## Internship
+UI/UX Internship – Future Interns  
+Task 1: Restaurant Menu & Ordering Interface Design
 
-Project Title: Modern Café – Restaurant Menu & Ordering Interface
+## Project Overview
+This project focuses on designing a digital restaurant menu and ordering interface
+that allows users to browse food items by category, view details, and place orders
+smoothly for dine-in or takeaway.
 
+## Key Features
+- Categorized food menu
+- Food item detail view
+- Cart and checkout flow
+- Clean and user-friendly interface
 
-Project Overview:
-This project is a UI/UX design solution for a modern café offering bakery items and coffee.
-The goal was to design an intuitive, conversion-friendly digital menu and ordering interface, similar to real-world applications like Swiggy, Zomato, or in-restaurant ordering systems.
-
-The design focuses on:
-- Easy food browsing
-- Category-based menu
-- Smooth ordering flow
-- Clean and modern café aesthetics
-
-Platforms Designed:
-- Desktop Web Application
-- Mobile Application (iOS/Android)
-
-Problem Statement:
-Design a modern digital menu and ordering interface where users can:
-- Browse food items by category
-- View food images, prices, and descriptions
-- Add items to cart
-- Complete checkout for dine-in or takeaway
-- Experience smooth navigation across desktop and mobile platforms
-
-
-Target Users:
-- Café visitors (dine-in)
-- Takeaway customers
-- Students, office-goers, and casual café customers
-
-
-Tools Used:
+## Tools Used:
 1. Figma – UI Design & Prototyping
 2. Adobe Express - Graphics editing
 3. Unsplash - Images (https://unsplash.com/)
 
 
-Theme & Visual Style:
-1. Theme: Modern Café (Bakery & Coffee)
-2. Design Style: Clean, minimal, warm, and welcoming
-3. Focus: Readability, usability, and real-world app experience
+## Screenshots
+Screens of the designed interface are available in the **Screenshots** folder.
 
-
-Key Features Designed:
-1. Desktop Web Design
-- Home Page
-- Menu Page (Category-based food listing)
-- About Page
-- Login & Sign Up
-- Cart Page
-- Checkout Page
-- Smooth interactive prototyping
-
-2. Mobile App Design
-- Welcome / Onboarding Screen
-- Login & Sign Up
-- Home Screen
-- Menu Screen
-- Item Description Screen
-- Cart
-- Checkout
-- Order Successful Screen
-- Account Page
-
-
-Prototyping:
-- Fully connected high-fidelity prototype
-- Smooth transitions between screens
-- Demonstrates real app/web ordering experience
-
-
-Deliverables:
-- Desktop Web UI Designs
-- Mobile App UI Designs
-- Interactive Figma Prototype
-- Screenshots of all major screens
-- Prototype demo video
+## Learnings
+- UI layout planning
+- Component consistency
+- Basic user flow design
+- Practical application of UI/UX principles
 
 
 Task Completion Status:
